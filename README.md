@@ -1,8 +1,8 @@
 ## Hi, I'm Achmad Badrodin
 
-Frontend developer who enjoys backend work, developer tooling, and practical notes that make day-to-day engineering easier.
+Frontend developer who knows just enough backend to keep things interesting, and occasionally wonders why it works on my machine.
 
-Currently spending more time with Go, Linux, SQL, and backend fundamentals.
+Lately spending more time with Go, Linux, SQL, and the small details that make software less painful to maintain.
 
 ### Connect
 
